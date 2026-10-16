@@ -42,7 +42,7 @@ This project is built with modern web technologies to provide a slick, app-like 
 Libra Aries PDF Editor includes a powerful **visual workflow editor** that allows you to chain multiple PDF operations together, creating automated processing pipelines.
 
 <div align="center">
-  <img src="public/images/workflow-editor-screenshot.png" alt="Workflow Editor Screenshot" width="800" />
+  
   <p><em>Visual workflow editor with drag-and-drop interface</em></p>
 </div>
 
