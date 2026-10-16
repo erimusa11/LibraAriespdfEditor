@@ -1,8 +1,8 @@
 [package]
 name = "pdfcraft"
 version = "0.1.0"
-description = "Libra&Aries PDF Editor Desktop Application"
-authors = ["Libra&Aries PDF Editor"]
+description = "Libra and Aries PDF Editor Desktop Application"
+authors = ["Libra and Aries PDF Editor"]
 edition = "2021"
 
 [build-dependencies]
