@@ -1,5 +1,5 @@
 {
-  "productName": "PDFCraft",
+  "productName": "Libra&Aries PDF Editor",
   "version": "0.1.0",
   "identifier": "com.pdfcraft.app",
   "build": {
@@ -13,7 +13,7 @@
     "windows": [
       {
         "label": "main",
-        "title": "PDFCraft",
+        "title": "Libra&Aries PDF Editor",
         "width": 1200,
         "height": 800,
         "minWidth": 800,

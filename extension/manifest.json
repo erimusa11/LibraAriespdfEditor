@@ -1,9 +1,9 @@
 {
     "manifest_version": 3,
-    "name": "PDFCraft - PDF Tools",
+    "name": "Libra&Aries PDF Editor - PDF Tools",
     "version": "1.0.0",
     "description": "Quick access to 90+ free online PDF tools. Merge, split, compress, convert PDFs - all in your browser.",
-    "author": "PDFCraft Team",
+    "author": "Libra&Aries PDF Editor Team",
     "homepage_url": "https://pdfcraft.devtoolcafe.com",
     "icons": {
         "16": "icons/icon16.png",
@@ -17,7 +17,7 @@
             "48": "icons/icon48.png",
             "128": "icons/icon128.png"
         },
-        "default_title": "PDFCraft - PDF Tools"
+        "default_title": "Libra&Aries PDF Editor - PDF Tools"
     },
     "background": {
         "service_worker": "background.js"
